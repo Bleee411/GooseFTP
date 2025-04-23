@@ -3,6 +3,11 @@
 **GooseFTP** is an open-source FTP/SFTP client tool designed to be simple, secure, and easy to use.  
 With **GooseFTP**, you can easily transfer files between your local machine and remote servers securely! 🚀
 
+## ⚙️ Development Status
+
+**GooseFTP** is currently in the development process. I'm actively working on adding new features and improving performance. It will be available publicly as soon as it's ready for use! 🚧
+
+
 ## 🚀 Features
 - **FTP & SFTP support**: Secure and encrypted file transfers 🔒
 - **User-friendly**: Clean and intuitive interface for seamless file management 📂
