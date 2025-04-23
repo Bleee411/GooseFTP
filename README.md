@@ -16,7 +16,7 @@ With **GooseFTP**, you can easily transfer files between your local machine and 
 ## 💻 Installation
 
 ### Windows:
-1. Download the installer from [link to download].
+1. Download the installer from soon.
 2. Run the installer and follow the instructions.
 
 
