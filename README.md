@@ -39,7 +39,7 @@ We welcome contributions to GooseFTP! If you'd like to help make this project ev
 **Your contributions are highly appreciated! ❤️**
 
 ## 📜 License
-GooseFTP is licensed under the **MIT License**. See the LICENSE file for more information. 📝
+GooseFTP is licensed under the **MIT License**. See the [LICENSE](https://github.com/Bleee411/GooseFTP/blob/main/LICENSE) file for more information. 📝
 
 ## 💬 Contact
 - Project website: gooseftp.com 🌐
