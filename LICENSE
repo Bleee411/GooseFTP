@@ -12,6 +12,13 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+Attribution Requirement:
+Any software or application that uses, modifies, or is derived from this Software
+must provide visible credit to the original author. This can be done by including
+the following text (or a reasonable equivalent) in the documentation, "About" section,
+or other appropriate place within the application:
+"This application is based on code originally written by Szofer."
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
